@@ -335,5 +335,5 @@ Feel free to open issues or pull requests if you have suggestions, improvements,
 
 ## License
 
-This project is open-sourced under the MIT License. See the `LICENSE` file (if you choose to add one) for more details.
+This project is open-sourced under the MIT License. 
 ---
